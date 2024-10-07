@@ -61,7 +61,7 @@ const projectsData = [
     description:
       "It is a project I have done for a medical company with C#, DevExpress and Sql Server.",
     image: "/images/projects/6.png",
-    tag: ["All", "Web"],
+    tag: ["All", "Desktop"],
     gitUrl: "/",
     previewUrl: "/",
   },

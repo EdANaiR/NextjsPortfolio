@@ -23,7 +23,7 @@ const HeroSection = () => {
             <TypeAnimation
               sequence={["Eda", 1000, "Full-Stack Web Dev.", 1000]}
               wrapper="span"
-              speed={50}
+              speed={20}
               repeat={Infinity}
             />
           </h1>
